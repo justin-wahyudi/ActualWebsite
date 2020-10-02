@@ -1,8 +1,8 @@
-## Welcome to LaLakers Pages
+## Welcome to ShoeInfo Pages
 
-This page is designed to help inform Los Angeles Lakers fans and people interested in basketball, along with other news.
+This page is designed to help inform people about shoes and the circulation around the web.
 
-### Markdown
+### Current Drops
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -12,6 +12,7 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+#### Header 4
 
 - Bulleted
 - List
