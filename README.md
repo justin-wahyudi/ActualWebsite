@@ -19,4 +19,3 @@ The Yeezy Boost 350 v2 Carbon is set to release on October 2nd, and is looking f
 ### Final Opinions
 
 Overall, this week has been full of great drops, especially with the Bad Bunny x Crocs collab that wasn't mentioned, and October is priming to be a great month. With the arrival of Holiday releases like the Air Jordan 1 High "Mocha", people will definitely try to get personal shoes or resell these for great value. This is all for this week's rendition of ShoeInfo and make sure to stay safe folks!
-
