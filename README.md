@@ -1,6 +1,6 @@
 ## Welcome to LaLakers Pages
 
-This page is designed to help inform Los Angeles Lakers
+This page is designed to help inform Los Angeles Lakers fans and people interested in basketball, along with other news.
 
 ### Markdown
 
