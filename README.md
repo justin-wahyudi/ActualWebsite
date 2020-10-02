@@ -6,7 +6,7 @@ This page is designed to help inform people about shoes and the circulation arou
 
 This week's current drops include the OffWhite Nike Rubber Dunks, which came in three different colorways: University Blue, University Gold, and Green Strike. 
 
-![OffWhite x Nike Rubber Dunks](OffWhite x Nike Rubber Dunk.jpg "OffWhite Rubber Dunks")
+![OffWhite x Nike Rubber Dunks](OffWhite x Nike Rubber Dunk.jpg)
 
 ```markdown
 Syntax highlighted code block
